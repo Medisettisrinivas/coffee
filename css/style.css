@@ -1,0 +1,65 @@
+.hero {
+    position: relative;
+    background-image:url("../images/coffebgm.jpg");
+    height: 70vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    justify-content: center;
+    text-align: left;
+    align-content: center;
+    color:cornsilk;
+}
+.hero h1{
+    font-family: "Playwrite PE" , cursive;
+
+}
+
+
+#about {
+    background-color: bisque;
+}
+
+
+.menu h1{
+    text-align: left;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+#bg-imgone{
+    background-position: center;
+    background-size: cover;
+    transition: 0.7s;
+    overflow:hidden;
+    position: relative;
+    cursor: pointer;
+    box-shadow: 0 4px 6px -1px rgb(128, 90, 0),;
+    border: 10px;
+
+}
+#bg-imgone:hover{
+    transform: scale(1.1);
+
+}
+.nav-link{
+    background-color: bisque;
+    color:chartreuse
+    break-inside: auto;
+    text-align: justify;
+    cursor: pointer;
+}
+.nav-link :hover{
+    color:rgb(201, 15, 15);
+    transition: 3s;
+
+}
+.icon {
+    font-size: 2rem;
+}
+
+
+
+
+    
+
